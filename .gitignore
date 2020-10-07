@@ -1,0 +1,4 @@
+#ignoring node mouldes
+node_modules/
+#ignoring .env files
+.env
